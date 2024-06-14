@@ -1,2 +1,2 @@
 # GymSistem
-Basit Bir Gym Otomasyonu
+GymSistem, salon üyelerini ve eğitmenlerini kaydedip düzenleyebileceğiniz bir spor salonu otomasyonudur.
